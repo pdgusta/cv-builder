@@ -8,9 +8,9 @@
 
 ---
 
-## ✨ Visão geral
+## Descrição
 
-O **CV Builder** é um editor visual de currículos baseado em React + Vite + Tailwind.  
+O **CV Builder** é um editor visual de currículos baseado em React + Vite + Tailwind. Totalmente construído utilizando Codex + ChatGPT Plus.
 O objetivo é **fazer poucas coisas, mas muito bem-feitas**:
 
 - Blocos pré-definidos (Dados pessoais, Experiência, Habilidades…)
@@ -37,7 +37,7 @@ O objetivo é **fazer poucas coisas, mas muito bem-feitas**:
 
 ## 📸 Screenshot
 
-> *(Adicione aqui um print da interface quando houver algo mais que a tela branca)*
+> 
 
 ---
 
